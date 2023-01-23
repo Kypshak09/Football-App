@@ -7,12 +7,16 @@
 
 import UIKit
 
-class tabBarViewController: UITabBarController {
+class tabBarViewController: UITabBarController{
 
+   
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
         self.tabBar.tintColor = .black
+        
+        
         
         let team = createTabBar(vc: TeamsController(), itemImage: "person.3.fill", itemName: "Teams")
         let score = createTabBar(vc: ScoreController(), itemImage: "sportscourt", itemName: "League")
@@ -21,6 +25,8 @@ class tabBarViewController: UITabBarController {
         viewControllers = [score,team,players]
         
     }
+    
+  
 
 
     func createTabBar(vc: UIViewController, itemImage: String, itemName: String) -> UIViewController {
@@ -31,6 +37,8 @@ class tabBarViewController: UITabBarController {
         controller.navigationBar.scrollEdgeAppearance = controller.navigationBar.standardAppearance
         return controller
     }
+    
+   
     
 }
 

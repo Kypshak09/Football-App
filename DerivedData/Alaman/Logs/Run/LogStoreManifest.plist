@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0BD27C24-F762-4D80-9B95-CB9052DED9AE</key>
+		<key>0490637A-539D-4FA9-B772-98D79A7EB3D5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0BD27C24-F762-4D80-9B95-CB9052DED9AE.xcactivitylog</string>
+			<string>0490637A-539D-4FA9-B772-98D79A7EB3D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095637.72923601</real>
+			<real>696163802.20981801</real>
 			<key>timeStoppedRecording</key>
-			<real>696095710.87966096</real>
+			<real>696163822.57042897</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>0BD27C24-F762-4D80-9B95-CB9052DED9AE</string>
+			<string>0490637A-539D-4FA9-B772-98D79A7EB3D5</string>
 		</dict>
-		<key>12A3E04C-EBDD-4EF8-8984-7F556DD5E273</key>
+		<key>068B25DE-546D-4F16-BFDF-17E36F1FA0EF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>12A3E04C-EBDD-4EF8-8984-7F556DD5E273.xcactivitylog</string>
+			<string>068B25DE-546D-4F16-BFDF-17E36F1FA0EF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093157.62756705</real>
+			<real>696142540.95614004</real>
 			<key>timeStoppedRecording</key>
-			<real>696093265.26199198</real>
+			<real>696142724.23652697</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>12A3E04C-EBDD-4EF8-8984-7F556DD5E273</string>
+			<string>068B25DE-546D-4F16-BFDF-17E36F1FA0EF</string>
 		</dict>
-		<key>1AAF6B06-983E-49B8-B748-D71EAE4437EE</key>
+		<key>09536BCF-3CAE-479A-9FD9-39373DA552FD</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1AAF6B06-983E-49B8-B748-D71EAE4437EE.xcactivitylog</string>
+			<string>09536BCF-3CAE-479A-9FD9-39373DA552FD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,13 +100,47 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093433.12780297</real>
+			<real>696152181.69819999</real>
 			<key>timeStoppedRecording</key>
-			<real>696093447.84411597</real>
+			<real>696152211.29485202</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>1AAF6B06-983E-49B8-B748-D71EAE4437EE</string>
+			<string>09536BCF-3CAE-479A-9FD9-39373DA552FD</string>
+		</dict>
+		<key>1B68BC90-D09A-4611-B9D7-2191755A30B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1B68BC90-D09A-4611-B9D7-2191755A30B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151953.31563306</real>
+			<key>timeStoppedRecording</key>
+			<real>696151967.20694494</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>1B68BC90-D09A-4611-B9D7-2191755A30B4</string>
 		</dict>
 		<key>1B777889-CBDD-4AC9-8788-94E1441C7413</key>
 		<dict>
@@ -142,7 +176,7 @@
 			<key>uniqueIdentifier</key>
 			<string>1B777889-CBDD-4AC9-8788-94E1441C7413</string>
 		</dict>
-		<key>2E0DFD93-126C-41C9-B19E-5BE8CADD59D5</key>
+		<key>1CB3DDDB-588C-4713-8C78-2DDDB6C2C05E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2E0DFD93-126C-41C9-B19E-5BE8CADD59D5.xcactivitylog</string>
+			<string>1CB3DDDB-588C-4713-8C78-2DDDB6C2C05E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +202,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093989.53742599</real>
+			<real>696148143.44610298</real>
 			<key>timeStoppedRecording</key>
-			<real>696094158.31362998</real>
+			<real>696148262.202757</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>2E0DFD93-126C-41C9-B19E-5BE8CADD59D5</string>
+			<string>1CB3DDDB-588C-4713-8C78-2DDDB6C2C05E</string>
 		</dict>
-		<key>2E6E18F7-444F-4BAA-917D-C629C20F5328</key>
+		<key>21B0C29B-5F38-44B5-B33A-2987489D5C75</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2E6E18F7-444F-4BAA-917D-C629C20F5328.xcactivitylog</string>
+			<string>21B0C29B-5F38-44B5-B33A-2987489D5C75.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +236,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696094266.72388101</real>
+			<real>696164719.49354005</real>
 			<key>timeStoppedRecording</key>
-			<real>696094745.99673295</real>
+			<real>696164729.64994001</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>2E6E18F7-444F-4BAA-917D-C629C20F5328</string>
+			<string>21B0C29B-5F38-44B5-B33A-2987489D5C75</string>
 		</dict>
-		<key>436A60C0-67A4-47E9-AA0C-A834B464D94E</key>
+		<key>2209C705-23E6-4459-AEFA-92841DBC0F43</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>436A60C0-67A4-47E9-AA0C-A834B464D94E.xcactivitylog</string>
+			<string>2209C705-23E6-4459-AEFA-92841DBC0F43.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +270,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696094948.23425305</real>
+			<real>696138904.82766902</real>
 			<key>timeStoppedRecording</key>
-			<real>696095165.64539099</real>
+			<real>696138924.45281994</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>436A60C0-67A4-47E9-AA0C-A834B464D94E</string>
+			<string>2209C705-23E6-4459-AEFA-92841DBC0F43</string>
 		</dict>
-		<key>497C9A27-B61E-424A-8C51-5695DEE624DD</key>
+		<key>23849E35-1068-425D-B0CC-469B72BB5B1E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>497C9A27-B61E-424A-8C51-5695DEE624DD.xcactivitylog</string>
+			<string>23849E35-1068-425D-B0CC-469B72BB5B1E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +304,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093448.32163703</real>
+			<real>696143918.20098197</real>
 			<key>timeStoppedRecording</key>
-			<real>696093509.408571</real>
+			<real>696144538.84898102</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>497C9A27-B61E-424A-8C51-5695DEE624DD</string>
+			<string>23849E35-1068-425D-B0CC-469B72BB5B1E</string>
 		</dict>
-		<key>4EF45383-5583-489D-89AE-FFB2CD94DC2C</key>
+		<key>24CA262D-22DA-47F4-AC26-FC3B42B5F7EA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4EF45383-5583-489D-89AE-FFB2CD94DC2C.xcactivitylog</string>
+			<string>24CA262D-22DA-47F4-AC26-FC3B42B5F7EA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +338,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696094752.86733103</real>
+			<real>696141516.31908095</real>
 			<key>timeStoppedRecording</key>
-			<real>696094946.92696798</real>
+			<real>696141677.377792</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>4EF45383-5583-489D-89AE-FFB2CD94DC2C</string>
+			<string>24CA262D-22DA-47F4-AC26-FC3B42B5F7EA</string>
 		</dict>
-		<key>54772771-2CD0-4647-9E11-C2D8A4A68B29</key>
+		<key>2D28888D-E3C5-4322-A52A-41FD113BBD5F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>54772771-2CD0-4647-9E11-C2D8A4A68B29.xcactivitylog</string>
+			<string>2D28888D-E3C5-4322-A52A-41FD113BBD5F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +372,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093266.04711497</real>
+			<real>696163773.89684105</real>
 			<key>timeStoppedRecording</key>
-			<real>696093337.73692405</real>
+			<real>696163780.89233506</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>54772771-2CD0-4647-9E11-C2D8A4A68B29</string>
+			<string>2D28888D-E3C5-4322-A52A-41FD113BBD5F</string>
 		</dict>
-		<key>602E72AD-0E37-40A4-8DD0-F862922678C5</key>
+		<key>2F46CEFC-AD1A-4B51-8EF8-35E0ECBCA968</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>602E72AD-0E37-40A4-8DD0-F862922678C5.xcactivitylog</string>
+			<string>2F46CEFC-AD1A-4B51-8EF8-35E0ECBCA968.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +406,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095275.03968406</real>
+			<real>696165080.23701894</real>
 			<key>timeStoppedRecording</key>
-			<real>696095636.15449595</real>
+			<real>696165199.19254196</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>602E72AD-0E37-40A4-8DD0-F862922678C5</string>
+			<string>2F46CEFC-AD1A-4B51-8EF8-35E0ECBCA968</string>
 		</dict>
-		<key>68AD70C0-14B4-45CE-BEAA-BCE63229A844</key>
+		<key>30209BDE-2A3D-4799-B2CD-1C70B616BEF6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>68AD70C0-14B4-45CE-BEAA-BCE63229A844.xcactivitylog</string>
+			<string>30209BDE-2A3D-4799-B2CD-1C70B616BEF6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +440,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696092884.51387298</real>
+			<real>696150708.08917797</real>
 			<key>timeStoppedRecording</key>
-			<real>696092916.85624504</real>
+			<real>696150901.58621502</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>68AD70C0-14B4-45CE-BEAA-BCE63229A844</string>
+			<string>30209BDE-2A3D-4799-B2CD-1C70B616BEF6</string>
 		</dict>
-		<key>69B32258-7BC3-4870-8EF7-09A0FE377CE9</key>
+		<key>31505F3E-C1BF-4C71-8D2F-B08E03E8E037</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>69B32258-7BC3-4870-8EF7-09A0FE377CE9.xcactivitylog</string>
+			<string>31505F3E-C1BF-4C71-8D2F-B08E03E8E037.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +474,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095760.106094</real>
+			<real>696141842.48942101</real>
 			<key>timeStoppedRecording</key>
-			<real>696095911.31900704</real>
+			<real>696142023.05866504</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>69B32258-7BC3-4870-8EF7-09A0FE377CE9</string>
+			<string>31505F3E-C1BF-4C71-8D2F-B08E03E8E037</string>
 		</dict>
-		<key>7C78995D-78C3-454D-B09D-7D2DBE3CADA8</key>
+		<key>337D06BF-6C91-472D-A68A-E10CDD5F3E3A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7C78995D-78C3-454D-B09D-7D2DBE3CADA8.xcactivitylog</string>
+			<string>337D06BF-6C91-472D-A68A-E10CDD5F3E3A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +508,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696092918.70674098</real>
+			<real>696152048.95097101</real>
 			<key>timeStoppedRecording</key>
-			<real>696092970.68009996</real>
+			<real>696152061.38830495</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>7C78995D-78C3-454D-B09D-7D2DBE3CADA8</string>
+			<string>337D06BF-6C91-472D-A68A-E10CDD5F3E3A</string>
 		</dict>
-		<key>7DD3E169-04F2-474D-8A2B-5F32EC96ECC3</key>
+		<key>3405B733-D456-45E1-A152-FF53AE7127E5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7DD3E169-04F2-474D-8A2B-5F32EC96ECC3.xcactivitylog</string>
+			<string>3405B733-D456-45E1-A152-FF53AE7127E5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +542,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093008.88113499</real>
+			<real>696151589.05139995</real>
 			<key>timeStoppedRecording</key>
-			<real>696093071.01606405</real>
+			<real>696151937.50414598</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>7DD3E169-04F2-474D-8A2B-5F32EC96ECC3</string>
+			<string>3405B733-D456-45E1-A152-FF53AE7127E5</string>
 		</dict>
-		<key>89FC67A0-E077-4D06-8A2D-10F4A73A95B9</key>
+		<key>374AAA0C-21EF-4E62-A09B-AB408459375F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>89FC67A0-E077-4D06-8A2D-10F4A73A95B9.xcactivitylog</string>
+			<string>374AAA0C-21EF-4E62-A09B-AB408459375F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +576,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095716.95075798</real>
+			<real>696152235.21902001</real>
 			<key>timeStoppedRecording</key>
-			<real>696095758.557464</real>
+			<real>696152259.27046096</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>89FC67A0-E077-4D06-8A2D-10F4A73A95B9</string>
+			<string>374AAA0C-21EF-4E62-A09B-AB408459375F</string>
 		</dict>
-		<key>99137FA9-2083-426A-9812-4CB06BA56FC4</key>
+		<key>3B26446F-A2F8-42F1-9068-DB037D4B6790</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>99137FA9-2083-426A-9812-4CB06BA56FC4.xcactivitylog</string>
+			<string>3B26446F-A2F8-42F1-9068-DB037D4B6790.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +610,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696092971.47715604</real>
+			<real>696147880.57764006</real>
 			<key>timeStoppedRecording</key>
-			<real>696093008.51895702</real>
+			<real>696147912.31493998</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>99137FA9-2083-426A-9812-4CB06BA56FC4</string>
+			<string>3B26446F-A2F8-42F1-9068-DB037D4B6790</string>
 		</dict>
-		<key>C052DF72-381B-4CE6-943C-53DEA94FC0B7</key>
+		<key>3C2936BC-1829-43FB-B256-F5C299682957</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C052DF72-381B-4CE6-943C-53DEA94FC0B7.xcactivitylog</string>
+			<string>3C2936BC-1829-43FB-B256-F5C299682957.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +644,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095193.84472704</real>
+			<real>696142036.70584202</real>
 			<key>timeStoppedRecording</key>
-			<real>696095261.35425997</real>
+			<real>696142048.03721499</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>C052DF72-381B-4CE6-943C-53DEA94FC0B7</string>
+			<string>3C2936BC-1829-43FB-B256-F5C299682957</string>
 		</dict>
-		<key>C55F9A92-F204-4AAB-AEFD-774E02433AE4</key>
+		<key>3F0CEAE2-F9EB-48C2-AA33-14B89FAC904F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C55F9A92-F204-4AAB-AEFD-774E02433AE4.xcactivitylog</string>
+			<string>3F0CEAE2-F9EB-48C2-AA33-14B89FAC904F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +678,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696095262.01955903</real>
+			<real>696143856.52678299</real>
 			<key>timeStoppedRecording</key>
-			<real>696095274.56096303</real>
+			<real>696143880.19578099</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>C55F9A92-F204-4AAB-AEFD-774E02433AE4</string>
+			<string>3F0CEAE2-F9EB-48C2-AA33-14B89FAC904F</string>
 		</dict>
-		<key>E56209E3-2CC5-4467-9963-FCFC973E09AA</key>
+		<key>42138237-7730-4892-9418-5E1C0D5F0363</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E56209E3-2CC5-4467-9963-FCFC973E09AA.xcactivitylog</string>
+			<string>42138237-7730-4892-9418-5E1C0D5F0363.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +712,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093071.40838897</real>
+			<real>696142781.58123195</real>
 			<key>timeStoppedRecording</key>
-			<real>696093156.11759996</real>
+			<real>696142798.34236598</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>E56209E3-2CC5-4467-9963-FCFC973E09AA</string>
+			<string>42138237-7730-4892-9418-5E1C0D5F0363</string>
 		</dict>
-		<key>EEBB7EB8-3399-4B1B-81C5-8EB1BC4ADA94</key>
+		<key>431E3AED-57DC-45AB-97DD-65C0C6FAFAD7</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>EEBB7EB8-3399-4B1B-81C5-8EB1BC4ADA94.xcactivitylog</string>
+			<string>431E3AED-57DC-45AB-97DD-65C0C6FAFAD7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +746,15 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093510.76916099</real>
+			<real>696143413.58263803</real>
 			<key>timeStoppedRecording</key>
-			<real>696093982.17263401</real>
+			<real>696143473.50904703</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>EEBB7EB8-3399-4B1B-81C5-8EB1BC4ADA94</string>
+			<string>431E3AED-57DC-45AB-97DD-65C0C6FAFAD7</string>
 		</dict>
-		<key>F39CF30D-D991-467A-9247-120F018891B0</key>
+		<key>46A26B62-D1AE-4D29-AF85-71731369AF74</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>F39CF30D-D991-467A-9247-120F018891B0.xcactivitylog</string>
+			<string>46A26B62-D1AE-4D29-AF85-71731369AF74.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,13 +780,2801 @@
 			<key>signature</key>
 			<string>Run Alaman</string>
 			<key>timeStartedRecording</key>
-			<real>696093338.18855703</real>
+			<real>696138874.19535697</real>
 			<key>timeStoppedRecording</key>
-			<real>696093431.26365995</real>
+			<real>696138903.77042103</real>
 			<key>title</key>
 			<string>Run Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>F39CF30D-D991-467A-9247-120F018891B0</string>
+			<string>46A26B62-D1AE-4D29-AF85-71731369AF74</string>
+		</dict>
+		<key>4C193C33-E55D-4E68-86A1-2131EF5398AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4C193C33-E55D-4E68-86A1-2131EF5398AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145215.76882601</real>
+			<key>timeStoppedRecording</key>
+			<real>696145276.88928699</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>4C193C33-E55D-4E68-86A1-2131EF5398AB</string>
+		</dict>
+		<key>50719705-B6D8-4A93-A47B-F0B5E9800928</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>50719705-B6D8-4A93-A47B-F0B5E9800928.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696137898.05308294</real>
+			<key>timeStoppedRecording</key>
+			<real>696138819.24340999</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>50719705-B6D8-4A93-A47B-F0B5E9800928</string>
+		</dict>
+		<key>5202F3E3-CAB0-4B9B-A70D-F23EA235ACE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5202F3E3-CAB0-4B9B-A70D-F23EA235ACE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143345.31303096</real>
+			<key>timeStoppedRecording</key>
+			<real>696143393.90281296</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>5202F3E3-CAB0-4B9B-A70D-F23EA235ACE2</string>
+		</dict>
+		<key>54FCC73F-2A50-4BD0-9900-FBBBB2ACE1BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>54FCC73F-2A50-4BD0-9900-FBBBB2ACE1BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696147526.07375002</real>
+			<key>timeStoppedRecording</key>
+			<real>696147624.35586202</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>54FCC73F-2A50-4BD0-9900-FBBBB2ACE1BE</string>
+		</dict>
+		<key>58F32320-0393-4573-99CA-AA88F10427EB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>58F32320-0393-4573-99CA-AA88F10427EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143554.18045902</real>
+			<key>timeStoppedRecording</key>
+			<real>696143854.90194798</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>58F32320-0393-4573-99CA-AA88F10427EB</string>
+		</dict>
+		<key>5E955824-8F93-4552-8128-5321B64630D8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E955824-8F93-4552-8128-5321B64630D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696148289.13096905</real>
+			<key>timeStoppedRecording</key>
+			<real>696150690.24934494</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>5E955824-8F93-4552-8128-5321B64630D8</string>
+		</dict>
+		<key>5F0CC3C1-D793-4FBA-9853-214F18EC9CEE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F0CC3C1-D793-4FBA-9853-214F18EC9CEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696147635.03430498</real>
+			<key>timeStoppedRecording</key>
+			<real>696147842.97138405</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>5F0CC3C1-D793-4FBA-9853-214F18EC9CEE</string>
+		</dict>
+		<key>628F9153-FDE4-4CAC-AE08-2178E97663F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>628F9153-FDE4-4CAC-AE08-2178E97663F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163571.69809306</real>
+			<key>timeStoppedRecording</key>
+			<real>696163603.24996698</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>628F9153-FDE4-4CAC-AE08-2178E97663F7</string>
+		</dict>
+		<key>6351B24D-A694-4DDB-9155-756FA3BBC3A5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6351B24D-A694-4DDB-9155-756FA3BBC3A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696150902.64701998</real>
+			<key>timeStoppedRecording</key>
+			<real>696150931.04825902</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>6351B24D-A694-4DDB-9155-756FA3BBC3A5</string>
+		</dict>
+		<key>6635254A-EC87-4278-B3FF-635187B3F17B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6635254A-EC87-4278-B3FF-635187B3F17B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143315.76222098</real>
+			<key>timeStoppedRecording</key>
+			<real>696143335.39928997</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>6635254A-EC87-4278-B3FF-635187B3F17B</string>
+		</dict>
+		<key>6AB18473-FAC9-4DB3-B115-919476461D0A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6AB18473-FAC9-4DB3-B115-919476461D0A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145169.55140996</real>
+			<key>timeStoppedRecording</key>
+			<real>696145215.14380801</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>6AB18473-FAC9-4DB3-B115-919476461D0A</string>
+		</dict>
+		<key>6BBB05AC-364D-4132-ADA3-3C64AE0EFEAF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6BBB05AC-364D-4132-ADA3-3C64AE0EFEAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696167601.57680905</real>
+			<key>timeStoppedRecording</key>
+			<real>696167635.28103101</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>6BBB05AC-364D-4132-ADA3-3C64AE0EFEAF</string>
+		</dict>
+		<key>6C46ABCF-8F4F-4421-9487-7C7D7C5C0C34</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6C46ABCF-8F4F-4421-9487-7C7D7C5C0C34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151211.66105795</real>
+			<key>timeStoppedRecording</key>
+			<real>696151235.84985101</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>6C46ABCF-8F4F-4421-9487-7C7D7C5C0C34</string>
+		</dict>
+		<key>70E98245-9565-4DB9-A6BE-6FF1962DB9F8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>70E98245-9565-4DB9-A6BE-6FF1962DB9F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696167543.75304997</real>
+			<key>timeStoppedRecording</key>
+			<real>696167599.98919201</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>70E98245-9565-4DB9-A6BE-6FF1962DB9F8</string>
+		</dict>
+		<key>7145868A-DAA1-44DB-AF48-42882E28C148</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7145868A-DAA1-44DB-AF48-42882E28C148.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142798.96429396</real>
+			<key>timeStoppedRecording</key>
+			<real>696142914.30358398</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>7145868A-DAA1-44DB-AF48-42882E28C148</string>
+		</dict>
+		<key>7256EB84-4805-41E2-A1A2-043F2F168A1D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7256EB84-4805-41E2-A1A2-043F2F168A1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696167636.42961395</real>
+			<key>timeStoppedRecording</key>
+			<real>696167660.64304304</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>7256EB84-4805-41E2-A1A2-043F2F168A1D</string>
+		</dict>
+		<key>77614F11-063A-4A38-A22F-55CF28937FEB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>77614F11-063A-4A38-A22F-55CF28937FEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696144594.04781199</real>
+			<key>timeStoppedRecording</key>
+			<real>696144619.20601594</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>77614F11-063A-4A38-A22F-55CF28937FEB</string>
+		</dict>
+		<key>7E839CF9-BBDE-4E73-9924-C3A8E29345E4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7E839CF9-BBDE-4E73-9924-C3A8E29345E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696150694.29158103</real>
+			<key>timeStoppedRecording</key>
+			<real>696150706.779459</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>7E839CF9-BBDE-4E73-9924-C3A8E29345E4</string>
+		</dict>
+		<key>811BC09C-FD42-4573-AE37-B5505E61491D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>811BC09C-FD42-4573-AE37-B5505E61491D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163787.56631899</real>
+			<key>timeStoppedRecording</key>
+			<real>696163801.63973296</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>811BC09C-FD42-4573-AE37-B5505E61491D</string>
+		</dict>
+		<key>8762897C-BCBB-469C-B25F-40B22D452506</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8762897C-BCBB-469C-B25F-40B22D452506.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145742.10104895</real>
+			<key>timeStoppedRecording</key>
+			<real>696145887.67072105</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8762897C-BCBB-469C-B25F-40B22D452506</string>
+		</dict>
+		<key>877C34C8-AE68-4FC3-A8BD-0F4E2C93E534</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>877C34C8-AE68-4FC3-A8BD-0F4E2C93E534.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145888.585554</real>
+			<key>timeStoppedRecording</key>
+			<real>696145912.83527899</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>877C34C8-AE68-4FC3-A8BD-0F4E2C93E534</string>
+		</dict>
+		<key>88519FCA-BA7E-4A40-AA71-F07A857C0780</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>88519FCA-BA7E-4A40-AA71-F07A857C0780.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696141677.36819696</real>
+			<key>timeStoppedRecording</key>
+			<real>696141741.87158406</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>88519FCA-BA7E-4A40-AA71-F07A857C0780</string>
+		</dict>
+		<key>88FF1969-19AE-47A6-9FCA-C5227914C061</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>88FF1969-19AE-47A6-9FCA-C5227914C061.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163699.58013201</real>
+			<key>timeStoppedRecording</key>
+			<real>696163741.22326505</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>88FF1969-19AE-47A6-9FCA-C5227914C061</string>
+		</dict>
+		<key>895C66D7-9EC7-4319-8D61-0792886EFDA2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>895C66D7-9EC7-4319-8D61-0792886EFDA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696144541.21467102</real>
+			<key>timeStoppedRecording</key>
+			<real>696144576.26145697</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>895C66D7-9EC7-4319-8D61-0792886EFDA2</string>
+		</dict>
+		<key>8ABE0BED-2A98-430F-9574-32ED169F9507</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8ABE0BED-2A98-430F-9574-32ED169F9507.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696141412.73889804</real>
+			<key>timeStoppedRecording</key>
+			<real>696141514.405496</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8ABE0BED-2A98-430F-9574-32ED169F9507</string>
+		</dict>
+		<key>8DC08DB0-2652-462C-A13A-E55E9D302CC2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8DC08DB0-2652-462C-A13A-E55E9D302CC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152023.08678901</real>
+			<key>timeStoppedRecording</key>
+			<real>696152048.19412601</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8DC08DB0-2652-462C-A13A-E55E9D302CC2</string>
+		</dict>
+		<key>8E5AB662-4D7B-4249-82E6-86208D4156B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E5AB662-4D7B-4249-82E6-86208D4156B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696139244.264889</real>
+			<key>timeStoppedRecording</key>
+			<real>696139365.96362305</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8E5AB662-4D7B-4249-82E6-86208D4156B7</string>
+		</dict>
+		<key>8F289064-7CCC-42CC-AEB6-8FA98604BE4F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F289064-7CCC-42CC-AEB6-8FA98604BE4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152260.44306397</real>
+			<key>timeStoppedRecording</key>
+			<real>696153110.45485306</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8F289064-7CCC-42CC-AEB6-8FA98604BE4F</string>
+		</dict>
+		<key>8F46B341-361B-4172-861F-BED793A36096</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F46B341-361B-4172-861F-BED793A36096.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142337.031968</real>
+			<key>timeStoppedRecording</key>
+			<real>696142354.77874899</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>8F46B341-361B-4172-861F-BED793A36096</string>
+		</dict>
+		<key>927475F9-7CCD-4ED3-A1DF-4D8CDD4507F5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>927475F9-7CCD-4ED3-A1DF-4D8CDD4507F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696150934.33354294</real>
+			<key>timeStoppedRecording</key>
+			<real>696151173.44979894</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>927475F9-7CCD-4ED3-A1DF-4D8CDD4507F5</string>
+		</dict>
+		<key>933D327E-4FC1-46D2-8FDE-5F1C7383946E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>933D327E-4FC1-46D2-8FDE-5F1C7383946E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696165063.69830203</real>
+			<key>timeStoppedRecording</key>
+			<real>696165079.23499799</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>933D327E-4FC1-46D2-8FDE-5F1C7383946E</string>
+		</dict>
+		<key>946F3965-443A-4BDA-86B4-752675E784EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>946F3965-443A-4BDA-86B4-752675E784EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152062.11011004</real>
+			<key>timeStoppedRecording</key>
+			<real>696152129.81545305</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>946F3965-443A-4BDA-86B4-752675E784EC</string>
+		</dict>
+		<key>94C380BB-2F0C-4084-BF1C-92AA6B5A7E79</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>94C380BB-2F0C-4084-BF1C-92AA6B5A7E79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145720.731884</real>
+			<key>timeStoppedRecording</key>
+			<real>696145741.49063802</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>94C380BB-2F0C-4084-BF1C-92AA6B5A7E79</string>
+		</dict>
+		<key>94DF0631-F3AA-40F9-9FAE-907FC5F1B4F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>94DF0631-F3AA-40F9-9FAE-907FC5F1B4F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142157.51986897</real>
+			<key>timeStoppedRecording</key>
+			<real>696142319.28789306</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>94DF0631-F3AA-40F9-9FAE-907FC5F1B4F1</string>
+		</dict>
+		<key>969E8309-90C6-4570-8DF4-DE1B20FBE832</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>969E8309-90C6-4570-8DF4-DE1B20FBE832.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696147843.78686905</real>
+			<key>timeStoppedRecording</key>
+			<real>696147879.53110194</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>969E8309-90C6-4570-8DF4-DE1B20FBE832</string>
+		</dict>
+		<key>9933A1F3-BAF7-49F7-9024-09166CD2488C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9933A1F3-BAF7-49F7-9024-09166CD2488C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142355.40303302</real>
+			<key>timeStoppedRecording</key>
+			<real>696142389.517892</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9933A1F3-BAF7-49F7-9024-09166CD2488C</string>
+		</dict>
+		<key>9983FED0-8176-44CE-8824-22E37FAE9851</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9983FED0-8176-44CE-8824-22E37FAE9851.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142048.67048001</real>
+			<key>timeStoppedRecording</key>
+			<real>696142130.31321096</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9983FED0-8176-44CE-8824-22E37FAE9851</string>
+		</dict>
+		<key>9C3F1C3B-9DF5-4FA2-A6C5-DC8D11611AFB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9C3F1C3B-9DF5-4FA2-A6C5-DC8D11611AFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696164730.48976398</real>
+			<key>timeStoppedRecording</key>
+			<real>696165038.602144</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9C3F1C3B-9DF5-4FA2-A6C5-DC8D11611AFB</string>
+		</dict>
+		<key>9C43CFB2-B199-49AA-B11D-50CAAB2A7770</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9C43CFB2-B199-49AA-B11D-50CAAB2A7770.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163516.59773397</real>
+			<key>timeStoppedRecording</key>
+			<real>696163570.82458794</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9C43CFB2-B199-49AA-B11D-50CAAB2A7770</string>
+		</dict>
+		<key>9F462C8C-996D-4FA1-91FF-4A7E3A059D5D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F462C8C-996D-4FA1-91FF-4A7E3A059D5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163823.39951098</real>
+			<key>timeStoppedRecording</key>
+			<real>696164716.51035094</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9F462C8C-996D-4FA1-91FF-4A7E3A059D5D</string>
+		</dict>
+		<key>9FD67174-3C8F-483E-9BE3-3ADAA22D5B10</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9FD67174-3C8F-483E-9BE3-3ADAA22D5B10.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151368.79150498</real>
+			<key>timeStoppedRecording</key>
+			<real>696151433.50993502</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>9FD67174-3C8F-483E-9BE3-3ADAA22D5B10</string>
+		</dict>
+		<key>A2265403-7BB8-466D-BF17-E688F4F483FB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A2265403-7BB8-466D-BF17-E688F4F483FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152130.86852598</real>
+			<key>timeStoppedRecording</key>
+			<real>696152139.39802504</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>A2265403-7BB8-466D-BF17-E688F4F483FB</string>
+		</dict>
+		<key>A706C828-94CC-4079-AEB4-01C0AD361162</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A706C828-94CC-4079-AEB4-01C0AD361162.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143881.01375496</real>
+			<key>timeStoppedRecording</key>
+			<real>696143895.79042196</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>A706C828-94CC-4079-AEB4-01C0AD361162</string>
+		</dict>
+		<key>AABF62BA-1D0C-4EAD-8DDF-AF71FB5343FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AABF62BA-1D0C-4EAD-8DDF-AF71FB5343FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152140.295421</real>
+			<key>timeStoppedRecording</key>
+			<real>696152166.46945798</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>AABF62BA-1D0C-4EAD-8DDF-AF71FB5343FC</string>
+		</dict>
+		<key>AE597FB1-10C6-4828-A2CE-F9D812E5B247</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE597FB1-10C6-4828-A2CE-F9D812E5B247.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163661.75583994</real>
+			<key>timeStoppedRecording</key>
+			<real>696163670.30269897</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>AE597FB1-10C6-4828-A2CE-F9D812E5B247</string>
+		</dict>
+		<key>B0E97CBF-66BD-4EC4-977E-1649A9AE1006</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0E97CBF-66BD-4EC4-977E-1649A9AE1006.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151440.24061704</real>
+			<key>timeStoppedRecording</key>
+			<real>696151587.46740699</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>B0E97CBF-66BD-4EC4-977E-1649A9AE1006</string>
+		</dict>
+		<key>B1D5D77B-B74C-4C2E-93DF-B0284F373EE7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B1D5D77B-B74C-4C2E-93DF-B0284F373EE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696148263.25178599</real>
+			<key>timeStoppedRecording</key>
+			<real>696148288.25743699</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>B1D5D77B-B74C-4C2E-93DF-B0284F373EE7</string>
+		</dict>
+		<key>B508C9F0-0707-494B-A33B-FBFEF01C6559</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B508C9F0-0707-494B-A33B-FBFEF01C6559.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142390.16587806</real>
+			<key>timeStoppedRecording</key>
+			<real>696142530.39285398</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>B508C9F0-0707-494B-A33B-FBFEF01C6559</string>
+		</dict>
+		<key>B70E7490-C1D8-4970-86F5-519373EF4519</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B70E7490-C1D8-4970-86F5-519373EF4519.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151177.180264</real>
+			<key>timeStoppedRecording</key>
+			<real>696151210.81223297</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>B70E7490-C1D8-4970-86F5-519373EF4519</string>
+		</dict>
+		<key>BAC3FBF0-3B55-448B-AFC8-5EE065D254BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BAC3FBF0-3B55-448B-AFC8-5EE065D254BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143896.45915306</real>
+			<key>timeStoppedRecording</key>
+			<real>696143917.58418798</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>BAC3FBF0-3B55-448B-AFC8-5EE065D254BB</string>
+		</dict>
+		<key>BD199546-C891-45CC-9988-EE9DEABB4458</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BD199546-C891-45CC-9988-EE9DEABB4458.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145277.45646501</real>
+			<key>timeStoppedRecording</key>
+			<real>696145298.01600301</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>BD199546-C891-45CC-9988-EE9DEABB4458</string>
+		</dict>
+		<key>C143A40A-80B0-41D2-86BF-2F76493581B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C143A40A-80B0-41D2-86BF-2F76493581B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696138925.00481701</real>
+			<key>timeStoppedRecording</key>
+			<real>696139242.53316104</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C143A40A-80B0-41D2-86BF-2F76493581B2</string>
+		</dict>
+		<key>C225EF4A-1ABE-4039-8919-3E8A5B6BA452</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C225EF4A-1ABE-4039-8919-3E8A5B6BA452.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163604.22642004</real>
+			<key>timeStoppedRecording</key>
+			<real>696163660.92247701</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C225EF4A-1ABE-4039-8919-3E8A5B6BA452</string>
+		</dict>
+		<key>C2A3F22E-D904-4D0F-A2A1-ADB6752182ED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2A3F22E-D904-4D0F-A2A1-ADB6752182ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152167.18150902</real>
+			<key>timeStoppedRecording</key>
+			<real>696152180.98570704</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C2A3F22E-D904-4D0F-A2A1-ADB6752182ED</string>
+		</dict>
+		<key>C2B02EB5-03F6-4109-BFD1-37A94561FF40</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2B02EB5-03F6-4109-BFD1-37A94561FF40.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696165039.77461696</real>
+			<key>timeStoppedRecording</key>
+			<real>696165062.65962195</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C2B02EB5-03F6-4109-BFD1-37A94561FF40</string>
+		</dict>
+		<key>C44439A2-D45D-475B-AD6E-4AED767BCEA4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C44439A2-D45D-475B-AD6E-4AED767BCEA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151968.03853905</real>
+			<key>timeStoppedRecording</key>
+			<real>696151979.87263703</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C44439A2-D45D-475B-AD6E-4AED767BCEA4</string>
+		</dict>
+		<key>C72CB423-A40E-45FF-B073-6F1B508F151C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C72CB423-A40E-45FF-B073-6F1B508F151C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145298.57701802</real>
+			<key>timeStoppedRecording</key>
+			<real>696145719.09398997</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C72CB423-A40E-45FF-B073-6F1B508F151C</string>
+		</dict>
+		<key>C9A61234-7B0B-4DBC-8A13-6D2A89A01E4D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C9A61234-7B0B-4DBC-8A13-6D2A89A01E4D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163671.04182899</real>
+			<key>timeStoppedRecording</key>
+			<real>696163687.60081995</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C9A61234-7B0B-4DBC-8A13-6D2A89A01E4D</string>
+		</dict>
+		<key>C9E218E7-91DA-41EF-8577-24B97A45FDAF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C9E218E7-91DA-41EF-8577-24B97A45FDAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696165427.74307799</real>
+			<key>timeStoppedRecording</key>
+			<real>696167518.26998401</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>C9E218E7-91DA-41EF-8577-24B97A45FDAF</string>
+		</dict>
+		<key>CA95AF69-89F8-4DB2-A139-D0FF082E547D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA95AF69-89F8-4DB2-A139-D0FF082E547D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696165208.76189899</real>
+			<key>timeStoppedRecording</key>
+			<real>696165268.82390904</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>CA95AF69-89F8-4DB2-A139-D0FF082E547D</string>
+		</dict>
+		<key>CE457AF0-CA61-4432-98CC-31D5C8D8EFB5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CE457AF0-CA61-4432-98CC-31D5C8D8EFB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696145913.73379004</real>
+			<key>timeStoppedRecording</key>
+			<real>696146357.60791004</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>CE457AF0-CA61-4432-98CC-31D5C8D8EFB5</string>
+		</dict>
+		<key>CF81B88D-22F0-44BC-8957-08C415A0462B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF81B88D-22F0-44BC-8957-08C415A0462B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696139366.85130703</real>
+			<key>timeStoppedRecording</key>
+			<real>696141412.88073599</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>CF81B88D-22F0-44BC-8957-08C415A0462B</string>
+		</dict>
+		<key>D28975D8-BC62-4DD4-B9A6-47BDD5E67E3E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D28975D8-BC62-4DD4-B9A6-47BDD5E67E3E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151980.68434799</real>
+			<key>timeStoppedRecording</key>
+			<real>696152009.03065503</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>D28975D8-BC62-4DD4-B9A6-47BDD5E67E3E</string>
+		</dict>
+		<key>DB1C90D1-F3A1-4B02-8C77-2EA12E70EA1B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DB1C90D1-F3A1-4B02-8C77-2EA12E70EA1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696146381.19978404</real>
+			<key>timeStoppedRecording</key>
+			<real>696147212.36877596</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>DB1C90D1-F3A1-4B02-8C77-2EA12E70EA1B</string>
+		</dict>
+		<key>DE04B0D1-20B1-4568-B3A8-67BBC17CBE10</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE04B0D1-20B1-4568-B3A8-67BBC17CBE10.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152212.38138604</real>
+			<key>timeStoppedRecording</key>
+			<real>696152234.32380998</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>DE04B0D1-20B1-4568-B3A8-67BBC17CBE10</string>
+		</dict>
+		<key>E0BE7B62-3DFD-4358-9ABC-139DCEEC6119</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E0BE7B62-3DFD-4358-9ABC-139DCEEC6119.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696153120.81477797</real>
+			<key>timeStoppedRecording</key>
+			<real>696163509.11951697</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>E0BE7B62-3DFD-4358-9ABC-139DCEEC6119</string>
+		</dict>
+		<key>E256F15C-9369-4252-B2B1-B027262999FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E256F15C-9369-4252-B2B1-B027262999FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696138823.37664402</real>
+			<key>timeStoppedRecording</key>
+			<real>696138872.98679101</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>E256F15C-9369-4252-B2B1-B027262999FE</string>
+		</dict>
+		<key>E4471548-1C60-4BB4-BC33-7D9A7CDE7292</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4471548-1C60-4BB4-BC33-7D9A7CDE7292.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142915.32637</real>
+			<key>timeStoppedRecording</key>
+			<real>696143313.56851101</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>E4471548-1C60-4BB4-BC33-7D9A7CDE7292</string>
+		</dict>
+		<key>E4D01091-9485-4689-9389-1CD98C1E0D12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4D01091-9485-4689-9389-1CD98C1E0D12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142725.28490698</real>
+			<key>timeStoppedRecording</key>
+			<real>696142780.65373898</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>E4D01091-9485-4689-9389-1CD98C1E0D12</string>
+		</dict>
+		<key>E6E970DC-0D80-4799-9B68-80A879543D21</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6E970DC-0D80-4799-9B68-80A879543D21.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696146359.45516205</real>
+			<key>timeStoppedRecording</key>
+			<real>696146380.34455299</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>E6E970DC-0D80-4799-9B68-80A879543D21</string>
+		</dict>
+		<key>EA12E9EE-4410-41DF-A2EE-73A0FBEB36DF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA12E9EE-4410-41DF-A2EE-73A0FBEB36DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163688.19081402</real>
+			<key>timeStoppedRecording</key>
+			<real>696163698.90441597</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>EA12E9EE-4410-41DF-A2EE-73A0FBEB36DF</string>
+		</dict>
+		<key>EC268BB7-D514-4A65-94A4-EAD53D089EE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC268BB7-D514-4A65-94A4-EAD53D089EE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696143474.41498995</real>
+			<key>timeStoppedRecording</key>
+			<real>696143552.765396</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>EC268BB7-D514-4A65-94A4-EAD53D089EE6</string>
+		</dict>
+		<key>EC86B0BA-3C0F-4C6E-A3A2-87C365CA8876</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC86B0BA-3C0F-4C6E-A3A2-87C365CA8876.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696165269.78632605</real>
+			<key>timeStoppedRecording</key>
+			<real>696165425.84025705</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>EC86B0BA-3C0F-4C6E-A3A2-87C365CA8876</string>
+		</dict>
+		<key>ED3E16A1-CD61-4A49-8821-5532EC933B59</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED3E16A1-CD61-4A49-8821-5532EC933B59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696147913.06622899</real>
+			<key>timeStoppedRecording</key>
+			<real>696148141.07845402</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>ED3E16A1-CD61-4A49-8821-5532EC933B59</string>
+		</dict>
+		<key>EDC60ADA-232D-47C4-A393-3DA11212E7B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EDC60ADA-232D-47C4-A393-3DA11212E7B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696152009.83295703</real>
+			<key>timeStoppedRecording</key>
+			<real>696152022.44767499</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>EDC60ADA-232D-47C4-A393-3DA11212E7B7</string>
+		</dict>
+		<key>F7046D17-74E3-481B-ACB8-FA42DDC4086F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7046D17-74E3-481B-ACB8-FA42DDC4086F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696151236.64566195</real>
+			<key>timeStoppedRecording</key>
+			<real>696151367.70494699</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>F7046D17-74E3-481B-ACB8-FA42DDC4086F</string>
+		</dict>
+		<key>F7C02F24-00E5-4636-A1E9-A08983E0E5E7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7C02F24-00E5-4636-A1E9-A08983E0E5E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696147214.92451096</real>
+			<key>timeStoppedRecording</key>
+			<real>696147526.12962902</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>F7C02F24-00E5-4636-A1E9-A08983E0E5E7</string>
+		</dict>
+		<key>F81FE815-5EDE-4D9D-8C8C-CAF6F1F6CDE5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F81FE815-5EDE-4D9D-8C8C-CAF6F1F6CDE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696144620.11761904</real>
+			<key>timeStoppedRecording</key>
+			<real>696145166.25331295</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>F81FE815-5EDE-4D9D-8C8C-CAF6F1F6CDE5</string>
+		</dict>
+		<key>F9E6D49A-6C1B-43A7-9A9E-3B425500BF32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F9E6D49A-6C1B-43A7-9A9E-3B425500BF32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163742.02156496</real>
+			<key>timeStoppedRecording</key>
+			<real>696163773.23562205</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>F9E6D49A-6C1B-43A7-9A9E-3B425500BF32</string>
+		</dict>
+		<key>FA6C797B-3968-470B-9EC8-5D3B068664A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FA6C797B-3968-470B-9EC8-5D3B068664A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696141744.02107596</real>
+			<key>timeStoppedRecording</key>
+			<real>696141842.49899495</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>FA6C797B-3968-470B-9EC8-5D3B068664A0</string>
+		</dict>
+		<key>FB54DF16-6B96-4EC4-B39E-8429468B5EF1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FB54DF16-6B96-4EC4-B39E-8429468B5EF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696163781.53610098</real>
+			<key>timeStoppedRecording</key>
+			<real>696163786.95758402</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>FB54DF16-6B96-4EC4-B39E-8429468B5EF1</string>
+		</dict>
+		<key>FF16F700-381F-420D-B74B-8A298FE80138</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF16F700-381F-420D-B74B-8A298FE80138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Alaman project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Alaman</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Alaman</string>
+			<key>timeStartedRecording</key>
+			<real>696142320.68953204</real>
+			<key>timeStoppedRecording</key>
+			<real>696142336.36975002</real>
+			<key>title</key>
+			<string>Run Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>FF16F700-381F-420D-B74B-8A298FE80138</string>
 		</dict>
 	</dict>
 </dict>
