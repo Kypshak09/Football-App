@@ -11,6 +11,7 @@ import SnapKit
 
 class ScoreTableCell: UITableViewCell {
     
+    var requests = Requests()
     
     
     let cellView: UIView = {
@@ -21,50 +22,56 @@ class ScoreTableCell: UITableViewCell {
         return view
     }()
     
-    let image: UIImageView = {
+    
+    var name: UILabel = {
+        let label = UILabel()
+        label.textAlignment = .left
+        return label
+    }()
+    
+    var matches: UILabel = {
+        let label = UILabel()
+        label.textAlignment = .left
+        return label
+    }()
+    
+    var image: UIImageView = {
         let image = UIImageView()
         let nameOfImage = ""
         image.image = UIImage(named: nameOfImage)
         return image
     }()
-    
-    let label: UILabel = {
-        let label = UILabel()
-        label.textAlignment = .left
-        return label
-    }()
-
-    let wins: UILabel = {
+    var wins: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
     
-    let lose: UILabel = {
+    var lose: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
     
-    let draw: UILabel = {
+    var draw: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
     
-    let goals: UILabel = {
+    var goals: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
     
-    let points: UILabel = {
+    var points: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
     
-    let numberInTable: UILabel = {
+    var numberInTable: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
@@ -75,6 +82,18 @@ class ScoreTableCell: UITableViewCell {
         setConstraint()
         image.layer.cornerRadius = image.frame.height / 2
         
+    }
+    
+    func configure(url: String,indexPath: IndexPath) {
+        requests.getData(url) { apiData in
+            self.wins.text = apiData.table[indexPath.row].win
+            self.goals.text = apiData.table[indexPath.row].goal
+            self.draw.text = apiData.table[indexPath.row].draw
+            self.lose.text = apiData.table[indexPath.row].lost
+            self.points.text = apiData.table[indexPath.row].points
+            self.name.text = apiData.table[indexPath.row].name
+            self.matches.text = apiData.table[indexPath.row].matches
+        }
     }
     
     override func awakeFromNib() {
@@ -90,11 +109,12 @@ class ScoreTableCell: UITableViewCell {
             make.width.equalToSuperview()
         }
         
-        cellView.addSubview(label)
-        label.snp.makeConstraints { make in
-            make.centerY.equalToSuperview()
-            make.leading.equalToSuperview().offset(70)
-        }
+         cellView.addSubview(name)
+         name.snp.makeConstraints { make in
+             make.centerY.equalToSuperview()
+             make.leading.equalToSuperview().offset(70)
+             make.width.equalTo(80)
+         }
          
          cellView.addSubview(image)
          image.snp.makeConstraints { make in
@@ -109,34 +129,42 @@ class ScoreTableCell: UITableViewCell {
             make.centerY.equalToSuperview()
         }
          
+         cellView.addSubview(matches)
+         matches.snp.makeConstraints { make in
+             make.centerY.equalToSuperview()
+             make.leading.equalTo(name.snp_trailingMargin).offset(65)
+         }
+         
          cellView.addSubview(wins)
          wins.snp.makeConstraints { make in
              make.centerY.equalToSuperview()
-             make.trailing.equalToSuperview().offset(-90)
-         }
-         
-         cellView.addSubview(lose)
-         lose.snp.makeConstraints { make in
-             make.centerY.equalToSuperview()
-             make.trailing.equalToSuperview().offset(-50)
+             make.leading.equalTo(matches.snp_trailingMargin).offset(30)
          }
          
          cellView.addSubview(draw)
          draw.snp.makeConstraints { make in
              make.centerY.equalToSuperview()
-             make.trailing.equalToSuperview().offset(-70)
+             make.leading.equalTo(wins.snp_trailingMargin).offset(30)
          }
+         
+         
+         cellView.addSubview(lose)
+         lose.snp.makeConstraints { make in
+             make.centerY.equalToSuperview()
+             make.leading.equalTo(draw.snp_trailingMargin).offset(25)
+         }
+         
          
          cellView.addSubview(goals)
          goals.snp.makeConstraints { make in
              make.centerY.equalToSuperview()
-             make.trailing.equalToSuperview().offset(-30)
+             make.leading.equalTo(lose.snp_trailingMargin).offset(27)
          }
          
          cellView.addSubview(points)
          points.snp.makeConstraints { make in
              make.centerY.equalToSuperview()
-             make.trailing.equalToSuperview().offset(-10)
+             make.leading.equalTo(goals.snp_trailingMargin).offset(27)
          }
     }
     

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>487DB1D8-FD65-4B84-B611-9AC379A4C7DC</key>
+		<key>0E14F128-D538-42DB-8CBE-FFD0D36BA600</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>487DB1D8-FD65-4B84-B611-9AC379A4C7DC.xcactivitylog</string>
+			<string>0E14F128-D538-42DB-8CBE-FFD0D36BA600.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
 			<key>timeStartedRecording</key>
-			<real>696167660.59200501</real>
+			<real>696272074.27920306</real>
 			<key>timeStoppedRecording</key>
-			<real>696167661.29412103</real>
+			<real>696272075.75524402</real>
 			<key>title</key>
 			<string>Build target Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>487DB1D8-FD65-4B84-B611-9AC379A4C7DC</string>
+			<string>0E14F128-D538-42DB-8CBE-FFD0D36BA600</string>
 		</dict>
 		<key>4C54643F-4D43-45A3-BBE2-41CB523FD051</key>
 		<dict>
@@ -117,6 +117,34 @@
 			<string>Build target SnapKit-Dynamic</string>
 			<key>uniqueIdentifier</key>
 			<string>9B1CC86D-E520-4FD7-B242-4EA34E3EEC9F</string>
+		</dict>
+		<key>CDE4791C-3A4A-456D-A38F-9EE4A452D242</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>CDE4791C-3A4A-456D-A38F-9EE4A452D242.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Alamofire-edymvnvpkvailbbuwkpsivfsbzrt</string>
+			<key>timeStartedRecording</key>
+			<real>696173435.86231196</real>
+			<key>timeStoppedRecording</key>
+			<real>696173440.05764997</real>
+			<key>title</key>
+			<string>Build target Alamofire</string>
+			<key>uniqueIdentifier</key>
+			<string>CDE4791C-3A4A-456D-A38F-9EE4A452D242</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

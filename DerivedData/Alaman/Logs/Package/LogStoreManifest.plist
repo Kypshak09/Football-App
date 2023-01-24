@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>7F5C3035-B28D-4EAE-BCB0-62CE718F67A7</key>
+		<key>43FEAD84-3A04-4181-9073-3D0A2C188315</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>7F5C3035-B28D-4EAE-BCB0-62CE718F67A7.xcactivitylog</string>
+			<string>43FEAD84-3A04-4181-9073-3D0A2C188315.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,69 +26,13 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>696137883.11731601</real>
+			<real>696260422.56797898</real>
 			<key>timeStoppedRecording</key>
-			<real>696137885.43266702</real>
+			<real>696260439.92151499</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>7F5C3035-B28D-4EAE-BCB0-62CE718F67A7</string>
-		</dict>
-		<key>B77D828D-6C21-42F9-B776-BB5EDE64A472</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
-			<key>fileName</key>
-			<string>B77D828D-6C21-42F9-B776-BB5EDE64A472.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Add Package</string>
-			<key>timeStartedRecording</key>
-			<real>696172962.70741701</real>
-			<key>timeStoppedRecording</key>
-			<real>696173100.72344506</real>
-			<key>title</key>
-			<string>Add Package</string>
-			<key>uniqueIdentifier</key>
-			<string>B77D828D-6C21-42F9-B776-BB5EDE64A472</string>
-		</dict>
-		<key>C4DDCE1B-7AE7-464C-B3B6-94CA42C57273</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
-			<key>fileName</key>
-			<string>C4DDCE1B-7AE7-464C-B3B6-94CA42C57273.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Resolve Packages</string>
-			<key>timeStartedRecording</key>
-			<real>696094614.80695999</real>
-			<key>timeStoppedRecording</key>
-			<real>696094615.77363503</real>
-			<key>title</key>
-			<string>Resolve Packages</string>
-			<key>uniqueIdentifier</key>
-			<string>C4DDCE1B-7AE7-464C-B3B6-94CA42C57273</string>
+			<string>43FEAD84-3A04-4181-9073-3D0A2C188315</string>
 		</dict>
 		<key>CDA808BC-9A00-4C5A-A42B-2B21C2FC1B07</key>
 		<dict>

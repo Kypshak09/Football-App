@@ -10,15 +10,65 @@ import SnapKit
 import SideMenu
 
 class ScoreController: UIViewController {
+
+    private var teamArray = [Models]()
     
-    private var teamArray = ["Team","Maiqudyk", "Kokshetau", "Aqsay"]
-    private var numberInTableArray = ["#","1)","2)","3)"]
-    private var imageArray = ["","MC", "MU", "Chelsea"]
-    private var winArray = ["W","3", "2", "1"]
-    private var drawArray = ["D","0", "0", "1"]
-    private var loseArray = ["L","1", "2", "2"]
-    private var pointsArray = ["P","9", "6", "4"]
-    private var goalsArray = ["G","11", "6", "3"]
+    let viewOfTeams: UIView = {
+        let view = UIView()
+        return view
+    }()
+    
+    let number: UILabel = {
+        let label = UILabel()
+        label.text = "#"
+        return label
+    }()
+    
+    let matches: UILabel = {
+        let label = UILabel()
+        label.text = "M"
+        return label
+    }()
+    
+    let goals: UILabel = {
+        let label = UILabel()
+        label.text = "G"
+        return label
+    }()
+    
+    let names: UILabel = {
+        let label = UILabel()
+        label.text = "Team name"
+        return label
+    }()
+    
+    let wins: UILabel = {
+        let label = UILabel()
+        label.text = "W"
+        return label
+    }()
+    
+    let draws: UILabel = {
+        let label = UILabel()
+        label.text = "D"
+        return label
+    }()
+    
+    let loses: UILabel = {
+        let label = UILabel()
+        label.text = "L"
+        return label
+    }()
+    
+    let points: UILabel = {
+        let label = UILabel()
+        label.text = "P"
+        return label
+    }()
+    
+    
+    
+    let url = "https://mocki.io/v1/5f652acf-e4a5-447f-a062-989dc1e9a116"
     
     
     private var identifier = "cellScore"
@@ -45,8 +95,12 @@ class ScoreController: UIViewController {
         menu?.presentDuration = 0.7
         tableView.register(ScoreTableCell.self, forCellReuseIdentifier: identifier)
         tableView.register(ScoreHeader.self, forHeaderFooterViewReuseIdentifier: headerIdentifier)
+        tableView.reloadData()
         setConstraint()
+        
+        
     }
+    
      //Method for Menu button
     @objc func goToMenu() {
         present(menu!, animated: true, completion: nil)
@@ -59,43 +113,81 @@ class ScoreController: UIViewController {
             make.top.bottom.equalToSuperview()
             make.width.equalToSuperview()
         }
+        
+        view.addSubview(viewOfTeams)
+        viewOfTeams.snp.makeConstraints { make in
+            make.top.equalToSuperview().offset(-350)
+            make.width.equalToSuperview()
+            make.bottom.equalTo(tableView)
+        }
+        viewOfTeams.addSubview(number)
+        number.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalToSuperview().offset(30)
+            make.height.equalTo(30)
+        }
+        
+        
+        viewOfTeams.addSubview(names)
+        names.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(number.snp_trailingMargin).offset(30)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(matches)
+        matches.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(names.snp_trailingMargin).offset(60)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(wins)
+        wins.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(names.snp_trailingMargin).offset(90)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(draws)
+        draws.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(wins.snp_trailingMargin).offset(25)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(loses)
+        loses.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(draws.snp_trailingMargin).offset(25)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(goals)
+        goals.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(loses.snp_trailingMargin).offset(25)
+            make.height.equalTo(30)
+        }
+        
+        viewOfTeams.addSubview(points)
+        points.snp.makeConstraints { make in
+            make.centerY.equalToSuperview()
+            make.leading.equalTo(goals.snp_trailingMargin).offset(40)
+            make.height.equalTo(30)
+        }
     }
 }
 
 extension ScoreController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return teamArray.count
+        return 3
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: identifier, for: indexPath) as! ScoreTableCell
-        switch indexPath.row {
-        case 0: cell.label.text = teamArray[indexPath.row]
-            cell.numberInTable.text = numberInTableArray[indexPath.row]
-            cell.image.image = UIImage(named: imageArray[indexPath.row])
-            cell.wins.text = winArray[indexPath.row]
-            cell.draw.text = drawArray[indexPath.row]
-            cell.lose.text = loseArray[indexPath.row]
-            cell.goals.text = goalsArray[indexPath.row]
-            cell.points.text = pointsArray[indexPath.row]
-        case 1: cell.label.text = teamArray[indexPath.row]
-            cell.numberInTable.text = numberInTableArray[indexPath.row]
-            cell.image.image = UIImage(named: imageArray[indexPath.row])
-                                                  cell.wins.text = winArray[indexPath.row]
-                                                  cell.draw.text = drawArray[indexPath.row]
-                                                  cell.lose.text = loseArray[indexPath.row]
-                                                  cell.goals.text = goalsArray[indexPath.row]
-                                                  cell.points.text = pointsArray[indexPath.row]
-        default: cell.label.text = teamArray[indexPath.row]
-            cell.numberInTable.text = numberInTableArray[indexPath.row]
-            cell.image.image = UIImage(named: imageArray[indexPath.row])
-                                                                                        cell.wins.text = winArray[indexPath.row]
-                                                                                        cell.draw.text = drawArray[indexPath.row]
-                                                                                        cell.lose.text = loseArray[indexPath.row]
-                                                                                        cell.goals.text = goalsArray[indexPath.row]
-                                                                                        cell.points.text = pointsArray[indexPath.row]
-        }
+        cell.configure(url: url,indexPath: indexPath)
         return cell
     }
     
@@ -112,7 +204,7 @@ extension ScoreController: UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-        140
+        180
     }
     
     
