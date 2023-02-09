@@ -11,8 +11,10 @@ import SnapKit
 
 class ScoreTableCell: UITableViewCell {
     
-    var requests = Requests()
-    
+    let numberInTable: UILabel = {
+        let label = UILabel()
+        return label
+    }()
     
     let cellView: UIView = {
         let view = UIView()
@@ -21,20 +23,17 @@ class ScoreTableCell: UITableViewCell {
         view.translatesAutoresizingMaskIntoConstraints = false
         return view
     }()
-    
-    
     var name: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
+        label.numberOfLines = 2
         return label
     }()
-    
     var matches: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
-    
     var image: UIImageView = {
         let image = UIImageView()
         let nameOfImage = ""
@@ -46,32 +45,22 @@ class ScoreTableCell: UITableViewCell {
         label.textAlignment = .left
         return label
     }()
-    
     var lose: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
-    
     var draw: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
-    
     var goals: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
     }()
-    
     var points: UILabel = {
-        let label = UILabel()
-        label.textAlignment = .left
-        return label
-    }()
-    
-    var numberInTable: UILabel = {
         let label = UILabel()
         label.textAlignment = .left
         return label
@@ -83,31 +72,37 @@ class ScoreTableCell: UITableViewCell {
         image.layer.cornerRadius = image.frame.height / 2
         
     }
-    
-    func configure(url: String,indexPath: IndexPath) {
-        requests.getData(url) { apiData in
-            self.wins.text = apiData.table[indexPath.row].win
-            self.goals.text = apiData.table[indexPath.row].goal
-            self.draw.text = apiData.table[indexPath.row].draw
-            self.lose.text = apiData.table[indexPath.row].lost
-            self.points.text = apiData.table[indexPath.row].points
-            self.name.text = apiData.table[indexPath.row].name
-            self.matches.text = apiData.table[indexPath.row].matches
-        }
-    }
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         
     }
     
+    func configure(team: TeamsDescription) {
+        self.name.text = team.name
+        self.matches.text = team.matches
+        self.wins.text = team.win
+        self.draw.text = team.draw
+        self.lose.text = team.lost
+        self.goals.text = team.goal
+        self.image.image = UIImage(named: team.name)
+        self.points.text = String(Int(team.win)! * 3 + Int(team.draw)!)
+    }
+    
      func setConstraint() {
         
+         
+         
         self.addSubview(cellView)
         cellView.snp.makeConstraints { make in
             make.centerY.equalToSuperview()
             make.width.equalToSuperview()
         }
+         
+         cellView.addSubview(numberInTable)
+         numberInTable.snp.makeConstraints { make in
+             make.leading.equalToSuperview().offset(5)
+             make.centerY.equalToSuperview()
+         }
         
          cellView.addSubview(name)
          name.snp.makeConstraints { make in

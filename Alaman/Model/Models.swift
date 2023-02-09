@@ -8,15 +8,10 @@
 import Foundation
 
 struct Models: Codable {
-    let table: [teamsDescription]
+    let table: [TeamsDescription]
 }
 
-struct teamsDescription: Codable {
-    let name: String
-    let win: String
-    let draw: String
-    let lost: String
-    let goal: String
-    let matches: String
-    let points: String
+struct TeamsDescription: Codable {
+    let name, matches, goal, lost: String
+    let draw, win: String
 }

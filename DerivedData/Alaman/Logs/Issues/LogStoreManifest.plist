@@ -6,16 +6,16 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0E14F128-D538-42DB-8CBE-FFD0D36BA600</key>
+		<key>1FD3640C-1C2B-45CA-9956-18C31BF3CED0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
 			<key>documentTypeString</key>
 			<string>&lt;nil&gt;</string>
 			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
 			<key>fileName</key>
-			<string>0E14F128-D538-42DB-8CBE-FFD0D36BA600.xcactivitylog</string>
+			<string>1FD3640C-1C2B-45CA-9956-18C31BF3CED0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -24,15 +24,15 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
+			<string>SnapKit-Dynamic-bmxqqqtrsteuyobkkuhdggaqotzl</string>
 			<key>timeStartedRecording</key>
-			<real>696272074.27920306</real>
+			<real>697649456.92491496</real>
 			<key>timeStoppedRecording</key>
-			<real>696272075.75524402</real>
+			<real>697649457.22820306</real>
 			<key>title</key>
-			<string>Build target Alaman</string>
+			<string>Build target SnapKit-Dynamic</string>
 			<key>uniqueIdentifier</key>
-			<string>0E14F128-D538-42DB-8CBE-FFD0D36BA600</string>
+			<string>1FD3640C-1C2B-45CA-9956-18C31BF3CED0</string>
 		</dict>
 		<key>4C54643F-4D43-45A3-BBE2-41CB523FD051</key>
 		<dict>
@@ -90,16 +90,16 @@
 			<key>uniqueIdentifier</key>
 			<string>92EA28FB-8644-4689-BA42-316CE0EC4ACB</string>
 		</dict>
-		<key>9B1CC86D-E520-4FD7-B242-4EA34E3EEC9F</key>
+		<key>9AB54768-2CAA-4CF3-90B7-5D76199407EE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
 			<key>documentTypeString</key>
 			<string>&lt;nil&gt;</string>
 			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>9B1CC86D-E520-4FD7-B242-4EA34E3EEC9F.xcactivitylog</string>
+			<string>9AB54768-2CAA-4CF3-90B7-5D76199407EE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -108,15 +108,15 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>SnapKit-Dynamic-bmxqqqtrsteuyobkkuhdggaqotzl</string>
+			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
 			<key>timeStartedRecording</key>
-			<real>696145167.80754304</real>
+			<real>697654209.16276801</real>
 			<key>timeStoppedRecording</key>
-			<real>696145168.52698004</real>
+			<real>697654210.30880201</real>
 			<key>title</key>
-			<string>Build target SnapKit-Dynamic</string>
+			<string>Build target Alaman</string>
 			<key>uniqueIdentifier</key>
-			<string>9B1CC86D-E520-4FD7-B242-4EA34E3EEC9F</string>
+			<string>9AB54768-2CAA-4CF3-90B7-5D76199407EE</string>
 		</dict>
 		<key>CDE4791C-3A4A-456D-A38F-9EE4A452D242</key>
 		<dict>

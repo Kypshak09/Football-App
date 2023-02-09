@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2586ED7A298110E900256FE7 /* InformationAboutTeamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2586ED79298110E900256FE7 /* InformationAboutTeamViewController.swift */; };
 		25936A40297D7E5D00CC759D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25936A3F297D7E5D00CC759D /* AppDelegate.swift */; };
 		25936A42297D7E5D00CC759D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25936A41297D7E5D00CC759D /* SceneDelegate.swift */; };
 		25936A44297D7E5D00CC759D /* tabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25936A43297D7E5D00CC759D /* tabBarViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2586ED79298110E900256FE7 /* InformationAboutTeamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationAboutTeamViewController.swift; sourceTree = "<group>"; };
 		25936A3C297D7E5D00CC759D /* Alaman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Alaman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25936A3F297D7E5D00CC759D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25936A41297D7E5D00CC759D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				25936A43297D7E5D00CC759D /* tabBarViewController.swift */,
 				25F57A9B297E4DA500DAB356 /* ListTableViewController.swift */,
+				2586ED79298110E900256FE7 /* InformationAboutTeamViewController.swift */,
 				25936A58297D873000CC759D /* Main */,
 				25F57A9E297E535700DAB356 /* Side Menu */,
 			);
@@ -116,6 +119,7 @@
 		25936A5B297D8B5300CC759D /* View */ = {
 			isa = PBXGroup;
 			children = (
+				25936A5C297D8B6800CC759D /* Cells */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -123,6 +127,7 @@
 		25936A5C297D8B6800CC759D /* Cells */ = {
 			isa = PBXGroup;
 			children = (
+				25F57AA4297E753E00DAB356 /* ScoreHeader.swift */,
 				25936A5D297D8B8700CC759D /* ScoreTableCell.swift */,
 			);
 			path = Cells;
@@ -140,8 +145,6 @@
 		25F57AA3297E67E800DAB356 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				25F57AA4297E753E00DAB356 /* ScoreHeader.swift */,
-				25936A5C297D8B6800CC759D /* Cells */,
 				25F57AA9297EC24F00DAB356 /* Requests.swift */,
 				25F57AAB297EC50800DAB356 /* Models.swift */,
 			);
@@ -238,6 +241,7 @@
 				25936A57297D872900CC759D /* PlayersController.swift in Sources */,
 				25936A55297D871600CC759D /* TeamsController.swift in Sources */,
 				25936A42297D7E5D00CC759D /* SceneDelegate.swift in Sources */,
+				2586ED7A298110E900256FE7 /* InformationAboutTeamViewController.swift in Sources */,
 				25F57AAA297EC24F00DAB356 /* Requests.swift in Sources */,
 				25936A5E297D8B8700CC759D /* ScoreTableCell.swift in Sources */,
 				25F57A9C297E4DA500DAB356 /* ListTableViewController.swift in Sources */,

@@ -10,21 +10,20 @@ import Alamofire
 
 class Requests {
     
-    func getData(_ urlStr: String,  handler: @escaping (_ apiData: Models) -> ()) {
-        let url = URL(string: urlStr)!
-        AF.request(url).response { resoponse in
-            switch resoponse.result {
-            case .success(let data):
-                do {
-                    let jsonData = try JSONDecoder().decode(Models.self, from: data!)
-                    handler(jsonData)
-                    
-                } catch {
-                    print(error)
-                }
-            case .failure(let error):
-                print(error)
+    static let shared = Requests()
+    private init() {}
+
+        func getData(completion: @escaping (Models?) -> Void) {
+            AF.request("https://mocki.io/v1/670d9bba-8766-4849-812f-508b29125924")
+                .validate()
+                .responseDecodable(of: Models.self) { (response) in
+                    guard let models = response.value else {
+                        completion(nil)
+                        return
+                    }
+                    completion(models)
             }
         }
-    }
+
 }
+
