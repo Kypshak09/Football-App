@@ -19,6 +19,7 @@
 		25936A5E297D8B8700CC759D /* ScoreTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25936A5D297D8B8700CC759D /* ScoreTableCell.swift */; };
 		25936A61297D8C1100CC759D /* SnapKit-Dynamic in Frameworks */ = {isa = PBXBuildFile; productRef = 25936A60297D8C1100CC759D /* SnapKit-Dynamic */; };
 		25936A64297D8F9600CC759D /* SideMenu in Frameworks */ = {isa = PBXBuildFile; productRef = 25936A63297D8F9600CC759D /* SideMenu */; };
+		25A184CF2997BC4700A2EDA4 /* TeamsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A184CE2997BC4700A2EDA4 /* TeamsCell.swift */; };
 		25F57A9C297E4DA500DAB356 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57A9B297E4DA500DAB356 /* ListTableViewController.swift */; };
 		25F57AA0297E537800DAB356 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57A9F297E537800DAB356 /* AboutUsViewController.swift */; };
 		25F57AA2297E539700DAB356 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57AA1297E539700DAB356 /* SettingsViewController.swift */; };
@@ -41,6 +42,7 @@
 		25936A56297D872900CC759D /* PlayersController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayersController.swift; sourceTree = "<group>"; };
 		25936A59297D881B00CC759D /* ScoreController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreController.swift; sourceTree = "<group>"; };
 		25936A5D297D8B8700CC759D /* ScoreTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreTableCell.swift; sourceTree = "<group>"; };
+		25A184CE2997BC4700A2EDA4 /* TeamsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamsCell.swift; sourceTree = "<group>"; };
 		25F57A9B297E4DA500DAB356 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 		25F57A9F297E537800DAB356 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		25F57AA1297E539700DAB356 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -82,9 +84,9 @@
 		25936A3E297D7E5D00CC759D /* Alaman */ = {
 			isa = PBXGroup;
 			children = (
-				25F57AA3297E67E800DAB356 /* Model */,
 				25936A3F297D7E5D00CC759D /* AppDelegate.swift */,
 				25936A41297D7E5D00CC759D /* SceneDelegate.swift */,
+				25F57AA3297E67E800DAB356 /* Model */,
 				25936A5B297D8B5300CC759D /* View */,
 				25936A53297D86EF00CC759D /* Controllers */,
 				25936A48297D7E6100CC759D /* Assets.xcassets */,
@@ -129,6 +131,7 @@
 			children = (
 				25F57AA4297E753E00DAB356 /* ScoreHeader.swift */,
 				25936A5D297D8B8700CC759D /* ScoreTableCell.swift */,
+				25A184CE2997BC4700A2EDA4 /* TeamsCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				25936A44297D7E5D00CC759D /* tabBarViewController.swift in Sources */,
 				25F57AAC297EC50800DAB356 /* Models.swift in Sources */,
+				25A184CF2997BC4700A2EDA4 /* TeamsCell.swift in Sources */,
 				25F57AA5297E753E00DAB356 /* ScoreHeader.swift in Sources */,
 				25F57AA0297E537800DAB356 /* AboutUsViewController.swift in Sources */,
 				25936A40297D7E5D00CC759D /* AppDelegate.swift in Sources */,

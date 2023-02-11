@@ -27,14 +27,16 @@ class ScoreHeader: UITableViewHeaderFooterView {
     let labelAlaman: UILabel = {
         let label = UILabel()
         label.text = "ALAMAN LIGA"
-        label.font = UIFont(name: "Impact", size: 45)
+        label.font = UIFont(name: "Avenir-Light", size: 15.0)
+        label.font = UIFont.boldSystemFont(ofSize: 15)
         return label
     }()
     
     let seasonLabel: UILabel = {
         let label = UILabel()
         label.text = "2022-2023"
-        label.font = UIFont(name: "Impact", size: 45)
+        label.font = UIFont(name: "Avenir-Light", size: 15)
+        label.font = UIFont.boldSystemFont(ofSize: 15)
         return label
     }()
     
@@ -48,13 +50,6 @@ class ScoreHeader: UITableViewHeaderFooterView {
     }
     
     func setHeaderConstraint() {
-        self.addSubview(image)
-        image.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.width.height.equalTo(150)
-            make.top.equalToSuperview().offset(-20)
-        }
-        
         self.addSubview(view)
         view.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
@@ -62,9 +57,16 @@ class ScoreHeader: UITableViewHeaderFooterView {
             make.top.equalToSuperview().offset(50)
         }
         
+        view.addSubview(image)
+        image.snp.makeConstraints { make in
+            make.centerX.equalToSuperview()
+            make.width.height.equalTo(150)
+            make.top.equalToSuperview().offset(-55)
+        }
+        
         view.addSubview(labelAlaman)
         labelAlaman.snp.makeConstraints { make in
-            make.leading.equalToSuperview().offset(20)
+            make.leading.equalToSuperview().offset(15)
             make.centerY.equalToSuperview()
         }
         view.addSubview(seasonLabel)

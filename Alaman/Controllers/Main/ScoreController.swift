@@ -85,6 +85,7 @@ class ScoreController: UIViewController {
         tableView.register(ScoreHeader.self, forHeaderFooterViewReuseIdentifier: headerIdentifier)
 //        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .refresh, target: self, action: #selector(refresh))
         navigationItem.rightBarButtonItem?.tintColor = .black
+        tableView.separatorStyle = .none
         
         setConstraint()
         
@@ -92,7 +93,7 @@ class ScoreController: UIViewController {
             guard let models = models else {return}
             self.teamArray = models.table
             self.tableView.reloadData()
-            print(self.teamArray)
+//            print(self.teamArray)
         }
         
     }
@@ -210,11 +211,12 @@ extension ScoreController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let header = tableView.dequeueReusableHeaderFooterView(withIdentifier: headerIdentifier) as! ScoreHeader
         
+        
         return header
     }
     
     func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-        180
+        200
     }
     
     

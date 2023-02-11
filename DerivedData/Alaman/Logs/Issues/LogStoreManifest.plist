@@ -62,6 +62,34 @@
 			<key>uniqueIdentifier</key>
 			<string>4C54643F-4D43-45A3-BBE2-41CB523FD051</string>
 		</dict>
+		<key>53062DED-D728-4D3B-B56A-D4D05FCD7F43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>53062DED-D728-4D3B-B56A-D4D05FCD7F43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
+			<key>timeStartedRecording</key>
+			<real>697814475.35848498</real>
+			<key>timeStoppedRecording</key>
+			<real>697814476.84411597</real>
+			<key>title</key>
+			<string>Build target Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>53062DED-D728-4D3B-B56A-D4D05FCD7F43</string>
+		</dict>
 		<key>92EA28FB-8644-4689-BA42-316CE0EC4ACB</key>
 		<dict>
 			<key>className</key>
@@ -89,34 +117,6 @@
 			<string>Build target SideMenu</string>
 			<key>uniqueIdentifier</key>
 			<string>92EA28FB-8644-4689-BA42-316CE0EC4ACB</string>
-		</dict>
-		<key>9AB54768-2CAA-4CF3-90B7-5D76199407EE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>9AB54768-2CAA-4CF3-90B7-5D76199407EE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
-			<key>timeStartedRecording</key>
-			<real>697654209.16276801</real>
-			<key>timeStoppedRecording</key>
-			<real>697654210.30880201</real>
-			<key>title</key>
-			<string>Build target Alaman</string>
-			<key>uniqueIdentifier</key>
-			<string>9AB54768-2CAA-4CF3-90B7-5D76199407EE</string>
 		</dict>
 		<key>CDE4791C-3A4A-456D-A38F-9EE4A452D242</key>
 		<dict>
