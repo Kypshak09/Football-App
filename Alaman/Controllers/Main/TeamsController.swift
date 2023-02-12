@@ -59,8 +59,8 @@ extension TeamsController: UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        dismiss(animated: true, completion: nil)
-        navigationController?.pushViewController(SquadInformationViewController(), animated: true)
+        let nc = SquadInformationViewController()
+        navigationController?.pushViewController(nc, animated: true)
     }
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {

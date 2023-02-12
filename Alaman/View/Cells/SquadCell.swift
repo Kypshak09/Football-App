@@ -31,9 +31,7 @@ class SquadCell: UITableViewCell {
         configureConstraint()
     }
     
-    func configure(player: Player) {
-        self.label.text = player.name
-    }
+    
     
     private func configureConstraint() {
         

@@ -13,6 +13,8 @@ class ScoreController: UIViewController {
     
     var teamArray = [TeamsDescription]()
     
+    let request = SquadRequest()
+    
     let viewOfTeams: UIView = {
         let view = UIView()
         return view
@@ -86,6 +88,8 @@ class ScoreController: UIViewController {
 //        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .refresh, target: self, action: #selector(refresh))
         navigationItem.rightBarButtonItem?.tintColor = .black
         tableView.separatorStyle = .none
+        
+        
         
         setConstraint()
         
@@ -203,6 +207,7 @@ extension ScoreController: UITableViewDelegate, UITableViewDataSource {
         dismiss(animated: true, completion: nil)
         let ns = InformationAboutTeamViewController()
         ns.nameOfTeam = teamArray[indexPath.row].name
+        ns.placeIntable = indexPath.row + 1
         present(ns, animated: true)
     }
     

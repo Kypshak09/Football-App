@@ -13,8 +13,8 @@ class SquadInformationViewController: UIViewController {
     let identifier = "Squad"
     
     let request = SquadRequest()
-    
-    var arrayPlayer = [Player]()
+    var squad = [Player]()
+    var welcome = [Welcome]()
     
     let table: UITableView = {
         let table = UITableView()
@@ -27,12 +27,15 @@ class SquadInformationViewController: UIViewController {
         table.delegate = self
         table.dataSource = self
         table.register(SquadCell.self, forCellReuseIdentifier: identifier)
-        request.fetchWelcomeData { result in
-            self.arrayPlayer = result.squad[1].players
+        
+        request.getSquad { result in
+            self.welcome = result
+            self.table.reloadData()
         }
         
         configureConstraint()
     }
+    
     
     private func configureConstraint() {
         view.addSubview(table)
@@ -45,12 +48,17 @@ class SquadInformationViewController: UIViewController {
 
 extension SquadInformationViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return arrayPlayer.count
+        return welcome[section].squad[section].players.count
     }
+    
+    func numberOfSections(in tableView: UITableView) -> Int {
+            return welcome.count
+        }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: identifier, for: indexPath) as! SquadCell
-        cell.configure(player: arrayPlayer[indexPath.row])
+        let player = welcome[indexPath.section].squad[indexPath.row].players[indexPath.row]
+        cell.label.text = player.name
         return cell
     }
     

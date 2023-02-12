@@ -6,34 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2A2057F6-5752-4C54-A647-B26B6A0F07FA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>2A2057F6-5752-4C54-A647-B26B6A0F07FA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
-			<key>timeStartedRecording</key>
-			<real>697830234.38182497</real>
-			<key>timeStoppedRecording</key>
-			<real>697830238.254035</real>
-			<key>title</key>
-			<string>Build target Alaman</string>
-			<key>uniqueIdentifier</key>
-			<string>2A2057F6-5752-4C54-A647-B26B6A0F07FA</string>
-		</dict>
 		<key>4C54643F-4D43-45A3-BBE2-41CB523FD051</key>
 		<dict>
 			<key>className</key>
@@ -117,6 +89,34 @@
 			<string>Build target Alamofire</string>
 			<key>uniqueIdentifier</key>
 			<string>CDE4791C-3A4A-456D-A38F-9EE4A452D242</string>
+		</dict>
+		<key>EC45FFAB-9DEE-495B-A6F7-DB91E769C138</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>EC45FFAB-9DEE-495B-A6F7-DB91E769C138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Alaman-cghqqdpwjdimaudznkkkusmkqofk</string>
+			<key>timeStartedRecording</key>
+			<real>697905833.26696897</real>
+			<key>timeStoppedRecording</key>
+			<real>697905834.81113398</real>
+			<key>title</key>
+			<string>Build target Alaman</string>
+			<key>uniqueIdentifier</key>
+			<string>EC45FFAB-9DEE-495B-A6F7-DB91E769C138</string>
 		</dict>
 		<key>FED2BE50-2234-4747-BD94-7B376C6C28CD</key>
 		<dict>

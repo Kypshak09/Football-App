@@ -14,11 +14,11 @@ struct Welcome: Codable {
 
 // MARK: - Squad
 struct Squad: Codable {
-    let teamName: String
+    let team_name: String
     let players: [Player]
 
     enum CodingKeys: String, CodingKey {
-        case teamName = "team_name"
+        case team_name
         case players
     }
 }
@@ -35,3 +35,4 @@ enum Position: String, Codable {
     case goalkeeper = "Goalkeeper"
     case midfielder = "Midfielder"
 }
+
