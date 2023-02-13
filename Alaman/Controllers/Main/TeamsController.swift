@@ -8,11 +8,21 @@
 import SnapKit
 import UIKit
 
-class TeamsController: UIViewController {
+class TeamsController: UIViewController, CellDelegate {
+    func configure(nc: SquadInformationViewController, indexPath: IndexPath) {
+        nc.cellDelegate = self
+        let selectedTeam = teamsArray[indexPath.row]
+        nc.players = squad[0].squad[indexPath.row].players
+        nc.title = selectedTeam
+    }
+    
     
     let teamsArray = ["Alatau","Aqjayiq", "Aqsay united", "Astana slit", "Jez Grads", "Kokshetau", "Maiqudyk" , "Okzhetpes", "Pavlodar", "Qostanay", "Sapa Semey" , "Ulytau"]
     
     let identifier = "TeamCell"
+    
+    let request = SquadRequest()
+    var squad = [Welcome]()
     
     let tableView: UITableView = {
         let table = UITableView()
@@ -27,6 +37,9 @@ class TeamsController: UIViewController {
         tableView.register(TeamsCell.self, forCellReuseIdentifier: identifier)
         tableView.separatorStyle = .none
         tableView.bounces = false
+        request.getSquad { result in
+            self.squad = result
+        }
         
         configureConstraints()
     }
@@ -39,6 +52,8 @@ class TeamsController: UIViewController {
             make.height.equalToSuperview()
         }
     }
+    
+    
 }
 
 extension TeamsController: UITableViewDelegate, UITableViewDataSource {
@@ -60,6 +75,7 @@ extension TeamsController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let nc = SquadInformationViewController()
+        configure(nc: nc, indexPath: indexPath)
         navigationController?.pushViewController(nc, animated: true)
     }
     

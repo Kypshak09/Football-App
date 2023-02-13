@@ -9,12 +9,12 @@ import UIKit
 import SnapKit
 
 class SquadInformationViewController: UIViewController {
+    
+    var cellDelegate: CellDelegate?
 
     let identifier = "Squad"
-    
-    let request = SquadRequest()
-    var squad = [Player]()
-    var welcome = [Welcome]()
+
+    var players = [Player]()
     
     let table: UITableView = {
         let table = UITableView()
@@ -27,11 +27,7 @@ class SquadInformationViewController: UIViewController {
         table.delegate = self
         table.dataSource = self
         table.register(SquadCell.self, forCellReuseIdentifier: identifier)
-        
-        request.getSquad { result in
-            self.welcome = result
-            self.table.reloadData()
-        }
+        navigationController?.navigationBar.tintColor = .black
         
         configureConstraint()
     }
@@ -48,19 +44,13 @@ class SquadInformationViewController: UIViewController {
 
 extension SquadInformationViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return welcome[section].squad[section].players.count
+        return players.count
     }
-    
-    func numberOfSections(in tableView: UITableView) -> Int {
-            return welcome.count
-        }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: identifier, for: indexPath) as! SquadCell
-        let player = welcome[indexPath.section].squad[indexPath.row].players[indexPath.row]
-        cell.label.text = player.name
+        cell.label.text = players[indexPath.row].name
         return cell
     }
-    
     
 }

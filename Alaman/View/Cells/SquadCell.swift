@@ -31,8 +31,6 @@ class SquadCell: UITableViewCell {
         configureConstraint()
     }
     
-    
-    
     private func configureConstraint() {
         
         self.addSubview(cellView)
