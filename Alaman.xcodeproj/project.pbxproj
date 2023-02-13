@@ -25,6 +25,9 @@
 		25A184D5299804BF00A2EDA4 /* SquadInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A184D4299804BF00A2EDA4 /* SquadInformationViewController.swift */; };
 		25A184D7299804FC00A2EDA4 /* SquadCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A184D6299804FC00A2EDA4 /* SquadCell.swift */; };
 		25BCFB7C299A3BD4007545D1 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BCFB7B299A3BD4007545D1 /* Protocol.swift */; };
+		25BCFB7E299A4BF1007545D1 /* ScoreRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BCFB7D299A4BF1007545D1 /* ScoreRequest.swift */; };
+		25BCFB80299A4C06007545D1 /* ScoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BCFB7F299A4C06007545D1 /* ScoreModel.swift */; };
+		25BCFB84299A5651007545D1 /* GoleadorsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BCFB83299A5651007545D1 /* GoleadorsCell.swift */; };
 		25F57A9C297E4DA500DAB356 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57A9B297E4DA500DAB356 /* ListTableViewController.swift */; };
 		25F57AA0297E537800DAB356 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57A9F297E537800DAB356 /* AboutUsViewController.swift */; };
 		25F57AA2297E539700DAB356 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F57AA1297E539700DAB356 /* SettingsViewController.swift */; };
@@ -53,6 +56,9 @@
 		25A184D4299804BF00A2EDA4 /* SquadInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquadInformationViewController.swift; sourceTree = "<group>"; };
 		25A184D6299804FC00A2EDA4 /* SquadCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquadCell.swift; sourceTree = "<group>"; };
 		25BCFB7B299A3BD4007545D1 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
+		25BCFB7D299A4BF1007545D1 /* ScoreRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreRequest.swift; sourceTree = "<group>"; };
+		25BCFB7F299A4C06007545D1 /* ScoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreModel.swift; sourceTree = "<group>"; };
+		25BCFB83299A5651007545D1 /* GoleadorsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoleadorsCell.swift; sourceTree = "<group>"; };
 		25F57A9B297E4DA500DAB356 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 		25F57A9F297E537800DAB356 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		25F57AA1297E539700DAB356 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -145,6 +151,7 @@
 				25936A5D297D8B8700CC759D /* ScoreTableCell.swift */,
 				25A184CE2997BC4700A2EDA4 /* TeamsCell.swift */,
 				25A184D6299804FC00A2EDA4 /* SquadCell.swift */,
+				25BCFB83299A5651007545D1 /* GoleadorsCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -165,6 +172,8 @@
 				25F57AAB297EC50800DAB356 /* Models.swift */,
 				25A184D02997FC5F00A2EDA4 /* SquadRequest.swift */,
 				25A184D22997FC6B00A2EDA4 /* SquadModel.swift */,
+				25BCFB7D299A4BF1007545D1 /* ScoreRequest.swift */,
+				25BCFB7F299A4C06007545D1 /* ScoreModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -261,11 +270,14 @@
 				25936A57297D872900CC759D /* PlayersController.swift in Sources */,
 				25936A55297D871600CC759D /* TeamsController.swift in Sources */,
 				25A184D7299804FC00A2EDA4 /* SquadCell.swift in Sources */,
+				25BCFB80299A4C06007545D1 /* ScoreModel.swift in Sources */,
 				25936A42297D7E5D00CC759D /* SceneDelegate.swift in Sources */,
 				2586ED7A298110E900256FE7 /* InformationAboutTeamViewController.swift in Sources */,
 				25A184D12997FC5F00A2EDA4 /* SquadRequest.swift in Sources */,
 				25A184D5299804BF00A2EDA4 /* SquadInformationViewController.swift in Sources */,
+				25BCFB7E299A4BF1007545D1 /* ScoreRequest.swift in Sources */,
 				25F57AAA297EC24F00DAB356 /* Requests.swift in Sources */,
+				25BCFB84299A5651007545D1 /* GoleadorsCell.swift in Sources */,
 				25936A5E297D8B8700CC759D /* ScoreTableCell.swift in Sources */,
 				25F57A9C297E4DA500DAB356 /* ListTableViewController.swift in Sources */,
 				25BCFB7C299A3BD4007545D1 /* Protocol.swift in Sources */,
