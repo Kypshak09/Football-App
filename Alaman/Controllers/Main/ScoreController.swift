@@ -13,6 +13,7 @@ class ScoreController: UIViewController {
     
     var teamArray = [TeamsDescription]()
     
+    
     let request = SquadRequest()
     
     let viewOfTeams: UIView = {
@@ -96,6 +97,7 @@ class ScoreController: UIViewController {
         Requests.shared.getData { models in
             guard let models = models else {return}
             self.teamArray = models.table
+            self.teamArray.sort { $0.points > $1.points }
             self.tableView.reloadData()
 //            print(self.teamArray)
         }
@@ -116,7 +118,7 @@ class ScoreController: UIViewController {
         
         view.addSubview(viewOfTeams)
         viewOfTeams.snp.makeConstraints { make in
-            make.centerY.equalToSuperview().offset(-180)
+            make.centerY.equalToSuperview().offset(-150)
             make.width.equalToSuperview()
         }
         viewOfTeams.addSubview(number)

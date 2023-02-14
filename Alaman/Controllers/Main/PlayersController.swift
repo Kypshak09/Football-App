@@ -27,11 +27,15 @@ class PlayersController: UIViewController {
         table.dataSource = self
         
         ScoreRequest.shared.getData { result in
-            self.array = result
+            let sortedArray = result.sorted { first, second in
+                first.goals > second.goals
+            }
+            
+            self.array = sortedArray
             self.table.reloadData()
+            
             print(self.array)
         }
-        
         configureConstraint()
     }
     
@@ -51,6 +55,7 @@ extension PlayersController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: identifier, for: indexPath) as! GoleadorsCell
+    
         cell.name.text = array[indexPath.row].name
         cell.match.text = String(array[indexPath.row].goals)
         cell.team.text = array[indexPath.row].team

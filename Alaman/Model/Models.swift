@@ -14,4 +14,7 @@ struct Models: Codable {
 struct TeamsDescription: Codable {
     let name, matches, goal, lost: String
     let draw, win: String
+    var points: Int {
+            return Int(win)! * 3 + Int(draw)!
+        }
 }

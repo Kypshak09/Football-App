@@ -84,7 +84,7 @@ class ScoreTableCell: UITableViewCell {
         self.lose.text = team.lost
         self.goals.text = team.goal
         self.image.image = UIImage(named: team.name)
-        self.points.text = String(Int(team.win)! * 3 + Int(team.draw)!)
+        self.points.text = String(team.points)
     }
     
      func setConstraint() {

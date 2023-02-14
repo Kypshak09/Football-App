@@ -13,6 +13,7 @@ class ScoreHeader: UITableViewHeaderFooterView {
     let view: UIView = {
         let view = UIView()
         view.backgroundColor = .white
+        
         view.layer.cornerRadius = 20
         view.backgroundColor = .systemGray
         return view
