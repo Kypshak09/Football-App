@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>49EBE6E4-CBED-40B5-A1E2-A6CE957F29B8</key>
+		<key>0BF8FDE6-5053-4BC9-BE23-446C8F4CC3C3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
 			<key>fileName</key>
-			<string>49EBE6E4-CBED-40B5-A1E2-A6CE957F29B8.xcactivitylog</string>
+			<string>0BF8FDE6-5053-4BC9-BE23-446C8F4CC3C3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,15 +26,15 @@
 			<key>signature</key>
 			<string>Update Signing</string>
 			<key>timeStartedRecording</key>
-			<real>698074616.20604599</real>
+			<real>698568371.08121896</real>
 			<key>timeStoppedRecording</key>
-			<real>698074618.78657103</real>
+			<real>698568373.15156603</real>
 			<key>title</key>
 			<string>Update Signing</string>
 			<key>uniqueIdentifier</key>
-			<string>49EBE6E4-CBED-40B5-A1E2-A6CE957F29B8</string>
+			<string>0BF8FDE6-5053-4BC9-BE23-446C8F4CC3C3</string>
 		</dict>
-		<key>63EDC121-D90E-45CE-9171-97717E241945</key>
+		<key>EB22E41E-1EE6-4AB0-8EBD-5859F1AE8137</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
 			<key>fileName</key>
-			<string>63EDC121-D90E-45CE-9171-97717E241945.xcactivitylog</string>
+			<string>EB22E41E-1EE6-4AB0-8EBD-5859F1AE8137.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -54,13 +54,13 @@
 			<key>signature</key>
 			<string>Update Signing</string>
 			<key>timeStartedRecording</key>
-			<real>698048225.07579601</real>
+			<real>698151828.73797202</real>
 			<key>timeStoppedRecording</key>
-			<real>698048227.62526798</real>
+			<real>698151830.88742399</real>
 			<key>title</key>
 			<string>Update Signing</string>
 			<key>uniqueIdentifier</key>
-			<string>63EDC121-D90E-45CE-9171-97717E241945</string>
+			<string>EB22E41E-1EE6-4AB0-8EBD-5859F1AE8137</string>
 		</dict>
 	</dict>
 </dict>

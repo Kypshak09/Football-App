@@ -14,7 +14,7 @@ class Requests {
     private init() {}
 
         func getData(completion: @escaping (Models?) -> Void) {
-            AF.request("https://mocki.io/v1/670d9bba-8766-4849-812f-508b29125924")
+            AF.request("https://mocki.io/v1/a4d74de7-6a40-4107-a43a-3cd69049abf3")
                 .validate()
                 .responseDecodable(of: Models.self) { (response) in
                     guard let models = response.value else {
