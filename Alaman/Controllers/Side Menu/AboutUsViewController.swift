@@ -56,23 +56,32 @@ class AboutUsViewController: UIViewController {
         title = "About us"
         view.backgroundColor = UIColor(displayP3Red: 0.96, green: 1.5, blue: 1.8, alpha: 1)
         configureConstraint()
-        telegramImage.addTarget(self, action: #selector(goToTg()), for: .touchUpInside)
-        instaImage.addTarget(self, action: #selector(goToInsta()), for: .touchUpInside)
-        youtubeImage.addTarget(self, action: #selector(goToYT()), for: .touchUpInside)
+        setTargetsForButtons()
+    }
+    
+    private func setTargetsForButtons() {
+        telegramImage.addTarget(self, action: #selector(goToTg), for: .touchUpInside)
+        instaImage.addTarget(self, action: #selector(goToInsta), for: .touchUpInside)
+        youtubeImage.addTarget(self, action: #selector(goToYT), for: .touchUpInside)
     }
     
     @objc func goToTg() {
-                
+        let tgLink = "https://t.me/alamansport"
+        guard let url = URL(string: tgLink) else { return }
+        UIApplication.shared.open(url)
     }
-            
+    
     @objc func goToInsta() {
-                
+        let instagramLink = "https://www.instagram.com/alamansport.kz/"
+        guard let url = URL(string: instagramLink) else { return }
+        UIApplication.shared.open(url)
     }
-            
+    
     @objc func goToYT() {
-                
+        let youtubeLink = "https://youtube.com/alamansport"
+        guard let url = URL(string: youtubeLink) else { return }
+        UIApplication.shared.open(url)
     }
-
     
     private func configureConstraint() {
         view.addSubview(titleLabel)
